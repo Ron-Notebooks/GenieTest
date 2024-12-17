@@ -1,0 +1,70 @@
+┌ Info: 2024-12-16 13:23:44 Watching ["/Users/ronb/zgenie2/test"]
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-16 13:23:45 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 13:23:50 Watching ["/Users/ronb/zgenie2/test"]
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-16 13:23:50 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 13:23:51 
+│ Web Server starting at http://0.0.0.0:9101?CHANNEL__=JKYFOYFKJENJGAUAFKALKUXYNSAEPSCI 
+└ @ Genie.Server /Users/ronb/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-16 13:23:51 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers /Users/ronb/.julia/packages/HTTP/WctPa/src/Servers.jl:382
+┌ Info: 2024-12-16 13:24:05 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 13:24:10 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:28:45 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:28:45 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:28:45 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:28:45 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:29:19 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:29:19 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:29:19 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:29:19 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:35:27 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:35:27 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:35:27 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:35:27 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:33 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:33 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:33 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:33 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:56 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:56 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:56 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 17:43:56 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 21:09:52 Watching ["/Users/ronb/zgenie2/test"]
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-16 21:09:53 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 21:09:57 Watching ["/Users/ronb/zgenie2/test"]
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-16 21:09:57 Autoreloading
+└ @ GenieAutoReload /Users/ronb/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-16 21:09:58 
+│ Web Server starting at http://0.0.0.0:9101?CHANNEL__=AUYQIDNDRMAGODNSBAGLZLXOLRUZKEMU 
+└ @ Genie.Server /Users/ronb/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-16 21:09:58 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers /Users/ronb/.julia/packages/HTTP/WctPa/src/Servers.jl:382
